@@ -1,2 +1,2 @@
-# fonts
+# custom fonts
 To host fonts
